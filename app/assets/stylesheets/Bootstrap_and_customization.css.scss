@@ -1,5 +1,11 @@
-$body-bg:  #9b59b6;
-$navbar-inverse-bg:  #bdc3c7;
-$navbar-inverse-link-color: black;
-$jumbotron-bg: #bdc3c7;
+$body-bg:  white;
+$navbar-inverse-bg:  #ecf0f1;
+$navbar-inverse-link-color: #c0392b;
+$jumbotron-bg: #ecf0f1;
+$navbar-height:  45px;
 @import "bootstrap";
+@import 'bootstrap-sprockets';
+
+.center {
+	text-align: center;
+}
